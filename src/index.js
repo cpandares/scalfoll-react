@@ -5,6 +5,8 @@ import ReactDOM from 'react-dom';
 import GlobalApp from './GlobalApp';
 
 
+
+
 ReactDOM.render(
  
     <GlobalApp />,
